@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLowMC.a CMakeFiles/LowMC.dir/LowMC.cpp.o
+/usr/bin/ranlib libLowMC.a

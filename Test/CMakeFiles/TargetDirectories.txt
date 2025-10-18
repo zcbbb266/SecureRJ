@@ -1,0 +1,3 @@
+/data/zcb1/code/Test/CMakeFiles/testsp.dir
+/data/zcb1/code/Test/CMakeFiles/edit_cache.dir
+/data/zcb1/code/Test/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 CMakeFiles/testsp.dir/test.cpp.o -o testsp 
